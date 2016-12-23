@@ -1,0 +1,1682 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1481347990
+!i10b 1
+!s100 2@;YleiQS51@UMb7^^WbN1
+ISF`Ra]Qg6UV@K589LGUJT1
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+Z3 w1476842880
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1481347990.104000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z6 o-vlog01compat -work nios_system
+Z7 !s92 -vlog01compat -work nios_system +incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules
+valtera_avalon_st_clock_crosser
+Z8 !s110 1481347992
+!i10b 1
+!s100 _kMN<BJ0mkgSFXTW`85Bh2
+I2<bQjn0XS=KO5`@]OV0<?3
+R2
+R0
+Z9 w1476842881
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+!s108 1481347992.625000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_avalon_st_handshake_clock_crosser
+R8
+!i10b 1
+!s100 <TeLS^R[XXnBHVSJ0:LXK0
+IoHe550QCef9lhR:o_K9:>3
+R2
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z10 L0 24
+R5
+r1
+!s85 0
+31
+!s108 1481347992.557000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_merlin_arb_adder
+Z11 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R8
+!i10b 1
+!s100 K`mj4ab`UI=f=Bzd]0FbK0
+I<<Vgm55Ha8BD8X>CCgNOi3
+R2
+Z12 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R9
+Z13 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+Z14 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+Z15 !s108 1481347992.694000
+Z16 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z17 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z18 o-sv -work nios_system
+Z19 !s92 -sv -work nios_system +incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules
+valtera_merlin_arbitrator
+R11
+R8
+!i10b 1
+!s100 Ni=FjEDhlN5HaJIeO8C?D0
+I]C<zYaLdBh?U7TSZiagJ;0
+R2
+R12
+S1
+R0
+R9
+R13
+R14
+L0 103
+R5
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R18
+R19
+valtera_merlin_burst_uncompressor
+R11
+Z20 !s110 1481347993
+!i10b 1
+!s100 GURQ=I3dUngBFBEkGhKmh3
+IJj7IPd8_P8LA]D[oCHfXW2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+!s108 1481347993.707000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R18
+R19
+valtera_merlin_master_agent
+R11
+R20
+!i10b 1
+!s100 ;96Rc=znn;@WbB0jWGRRl1
+IOTzC^nzTBR0CDAdFXlL?21
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+!s108 1481347993.775000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R18
+R19
+valtera_merlin_master_translator
+R11
+R20
+!i10b 1
+!s100 6[_D]96gi`8O488PiFWUc1
+I>RbM>P=:EI3D`VS;BFIgR1
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+L0 30
+R5
+r1
+!s85 0
+31
+!s108 1481347993.917000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R18
+R19
+valtera_merlin_slave_agent
+R11
+R20
+!i10b 1
+!s100 3LfTAj;bB3aAXgCgCn_bT3
+I?5_`nX^kMRhTE6Tm399g`0
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+!s108 1481347993.616000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R18
+R19
+valtera_merlin_slave_translator
+R11
+R20
+!i10b 1
+!s100 dTa]H8`_eei9>oMl>o5z71
+IP8>FNC6:YTM7O4NNW^8GJ0
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+!s108 1481347993.844000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R18
+R19
+valtera_reset_controller
+Z21 !s110 1481347989
+!i10b 1
+!s100 VEhLaE^KT@RiagZkfkKI93
+IkD]AT[bf=M[1PP[Vh8ho^2
+R2
+R0
+Z22 w1476842874
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_controller.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+!s108 1481347989.790000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R6
+R7
+valtera_reset_synchronizer
+R21
+!i10b 1
+!s100 UTD:?4E=?>;X@do<;V;hQ1
+IhKz9VEH2lk`hA5FBfjZlB0
+R2
+R0
+R22
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+R10
+R5
+r1
+!s85 0
+31
+!s108 1481347989.859000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R6
+R7
+vnios_system
+R21
+!i10b 1
+!s100 o^_eXV3aOK5:L3aB8<J@C1
+IW4PZ<_bm2XM@fGJ]nZ?D41
+R2
+R0
+w1476842945
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/nios_system.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/nios_system.v
+L0 6
+R5
+r1
+!s85 0
+31
+!s108 1481347989.717000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/nios_system.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/nios_system.v|
+!i113 1
+R6
+!s92 -vlog01compat -work nios_system +incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis
+vnios_system_irq_mapper
+R11
+R8
+!i10b 1
+!s100 ZGm6N;7Rn>m0leZMI91QY0
+ICjiEnUoY<_kLg`o2Czh=I3
+R2
+!s105 nios_system_irq_mapper_sv_unit
+S1
+R0
+R22
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+!s108 1481347992.421000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!i113 1
+R18
+R19
+vnios_system_jtag_uart_0
+Z23 !s110 1481347991
+!i10b 1
+!s100 :MmM:0liXENO<Q^IUn]oh3
+I6C4cPMMA:=>PbY0S<[BmN1
+R2
+R0
+Z24 w1476842856
+Z25 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+Z26 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+L0 327
+R5
+r1
+!s85 0
+31
+Z27 !s108 1481347991.233000
+Z28 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+Z29 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_scfifo_r
+R23
+!i10b 1
+!s100 gXO9dTSOCmgV4Wb<09CVT0
+I5b4U@]7OR@o@1MFnXYa0h1
+R2
+R0
+R24
+R25
+R26
+L0 240
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_scfifo_w
+R23
+!i10b 1
+!s100 ;ji9i5zOlD>aj4S7R=57E3
+I>8JHZ8NaVX0E4AXO^9[AM1
+R2
+R0
+R24
+R25
+R26
+L0 77
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_sim_scfifo_r
+R23
+!i10b 1
+!s100 V;:bhJWmeiWSzYG>kF<HX2
+IGgPJHj^8YzeMgVFPN_OK:0
+R2
+R0
+R24
+R25
+R26
+L0 162
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_sim_scfifo_w
+R23
+!i10b 1
+!s100 O?7hL]]l>bOaFz[D84m]m2
+IVUi1o4gW>I7O4R7^ZSBBS1
+R2
+R0
+R24
+R25
+R26
+R4
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vnios_system_Keycode
+R23
+!i10b 1
+!s100 PG<AD>iKIjLacghEo7LSn3
+InCK5?=R2>d5ndAj_m=WZD2
+R2
+R0
+w1476842855
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_Keycode.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_Keycode.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347991.309000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_Keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_Keycode.v|
+!i113 1
+R6
+R7
+nnios_system_@keycode
+vnios_system_mm_interconnect_0
+R21
+!i10b 1
+!s100 lB59BoV1c?f9@o8l>RiFD2
+Igfd856e][:=993^8bE27O3
+R2
+R0
+R22
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481347989.925000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!i113 1
+R6
+R7
+vnios_system_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 bB`0U][J6Ta7W15AOY]kI0
+IfLWPj7k1_U=ZEhDd[hHG_3
+R2
+R0
+Z30 w1476842882
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481347990.035000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R6
+R7
+vnios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R11
+R8
+!i10b 1
+!s100 b5MC7IN[92h@f=T203cnn2
+IYQ[>M_Pn^J6oD]SInVLfC3
+R2
+!s105 nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R30
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+L0 66
+R5
+r1
+!s85 0
+31
+!s108 1481347992.487000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_cmd_demux
+R11
+R20
+!i10b 1
+!s100 kl;`6UWB2lA@0[RKH[NB93
+Ig0Y?C3TzDIb1TIPONnf1i3
+R2
+!s105 nios_system_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+Z31 L0 43
+R5
+r1
+!s85 0
+31
+!s108 1481347993.258000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_cmd_demux_001
+R11
+R20
+!i10b 1
+!s100 cdB`BLSeB>E[e6M<Q;F:13
+IhFhoBmG9?I:Xog?_[a_YP2
+R2
+!s105 nios_system_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1481347993.187000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_cmd_mux
+R11
+R20
+!i10b 1
+!s100 f@AD3?o1SDWA6T50UM2kE2
+IPfzabEBiBe]E9d]_PVC:Z3
+R2
+!s105 nios_system_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+Z32 L0 51
+R5
+r1
+!s85 0
+31
+!s108 1481347993.116000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_cmd_mux_001
+R11
+R20
+!i10b 1
+!s100 Q5^fT352Ez4N>h3:mE9h33
+I=UjVb9I1NGUOdbAb4H:bi1
+R2
+!s105 nios_system_mm_interconnect_0_cmd_mux_001_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1481347993.049000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router
+R11
+R20
+!i10b 1
+!s100 gQW2=<fA6RYbSUh5O:F4Z1
+IJ[@o<_6en]c7=V1z53OE^1
+R2
+Z33 !s105 nios_system_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z34 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z35 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z36 L0 84
+R5
+r1
+!s85 0
+31
+Z37 !s108 1481347993.541000
+Z38 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+Z39 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_001
+R11
+R20
+!i10b 1
+!s100 NHA[NYJ3[dE]=mFi8XM173
+INo9o[0`]C><gh[J2Ah2Bl0
+R2
+Z40 !s105 nios_system_mm_interconnect_0_router_001_sv_unit
+S1
+R0
+R3
+Z41 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+Z42 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+R36
+R5
+r1
+!s85 0
+31
+Z43 !s108 1481347993.471000
+Z44 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+Z45 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_001_default_decode
+R11
+R20
+!i10b 1
+!s100 i1l;`G3g:7UM=zH:EVQ803
+I^OZAo?X`:QJf1BIzBEzK72
+R2
+R40
+S1
+R0
+R3
+R41
+R42
+Z46 L0 45
+R5
+r1
+!s85 0
+31
+R43
+R44
+R45
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_002
+R11
+R20
+!i10b 1
+!s100 k9J<YaVEQKDcEY`gb<V6J1
+IHV^2OlKCz:IAPdS=V6OY40
+R2
+Z47 !s105 nios_system_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z48 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+Z49 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+R36
+R5
+r1
+!s85 0
+31
+Z50 !s108 1481347993.398000
+Z51 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+Z52 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_002_default_decode
+R11
+R20
+!i10b 1
+!s100 [=;YgoF6d]gaCk>H2HA1L2
+I9iIV56ELMRczI0jNO=E<i0
+R2
+R47
+S1
+R0
+R3
+R48
+R49
+R46
+R5
+r1
+!s85 0
+31
+R50
+R51
+R52
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_003
+R11
+R20
+!i10b 1
+!s100 U1T_F3zWWVJAY2ge6DWK[2
+IjED6A@CQl8fj]6j]Ef]?30
+R2
+Z53 !s105 nios_system_mm_interconnect_0_router_003_sv_unit
+S1
+R0
+R3
+Z54 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv
+Z55 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv
+R36
+R5
+r1
+!s85 0
+31
+Z56 !s108 1481347993.326000
+Z57 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv|
+Z58 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_003_default_decode
+R11
+R20
+!i10b 1
+!s100 >=_8<0`W_VgJ>RZc1Bd?X1
+IVR;`7?:EjfE]WB;GWLYf91
+R2
+R53
+S1
+R0
+R3
+R54
+R55
+R46
+R5
+r1
+!s85 0
+31
+R56
+R57
+R58
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_router_default_decode
+R11
+R20
+!i10b 1
+!s100 5<PkmA1SbM?l?ce=U=LBG0
+IMASni[;=Fl]dF?6;P2QI`3
+R2
+R33
+S1
+R0
+R3
+R34
+R35
+R46
+R5
+r1
+!s85 0
+31
+R37
+R38
+R39
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_rsp_demux
+R11
+R8
+!i10b 1
+!s100 186U1cE_8Xb9=fOA:QHBT0
+I[3<cA;U@D53FN@KH;K<jn3
+R2
+!s105 nios_system_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1481347992.982000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_rsp_demux_001
+R11
+R8
+!i10b 1
+!s100 9CGY01@Y6`b52zY?GTfe>1
+IgdSAb=mGHDR9ncAG09oCF1
+R2
+!s105 nios_system_mm_interconnect_0_rsp_demux_001_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1481347992.913000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_rsp_mux
+R11
+R8
+!i10b 1
+!s100 6e?eF[W:JRS3offcSGfL^2
+ImEd]7mezg8hL:BKBS7RQh1
+R2
+!s105 nios_system_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1481347992.841000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R18
+R19
+vnios_system_mm_interconnect_0_rsp_mux_001
+R11
+R8
+!i10b 1
+!s100 ZVM?dNNF;]je7:3S2Gb5R0
+I17bf:jbK18f1K6BW4z;Cn0
+R2
+!s105 nios_system_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R0
+R9
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1481347992.770000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R18
+R19
+vnios_system_nios2_qsys_0
+R1
+!i10b 1
+!s100 OfDdZ4_691i^KC8[=R2e13
+IQX^4[^Q13lbi=;ETd0Ya72
+R2
+R0
+R24
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481347990.692000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu
+R1
+!i10b 1
+!s100 mVBW:i1THk1i>C]1i5WVS3
+IeJ?J6ChiQKR:0__oNK45W0
+R2
+R0
+R3
+Z59 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v
+Z60 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v
+L0 2981
+R5
+r1
+!s85 0
+31
+Z61 !s108 1481347990.758000
+Z62 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v|
+Z63 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_sysclk
+R1
+!i10b 1
+!s100 R;HXW`FJC4<@liih@P7IM3
+I8ECbAVD]e1_Lok[jY]6j<0
+R2
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.920000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_tck
+R23
+!i10b 1
+!s100 2zcCA[gE2@diU5nUVkY=R2
+IT:bDS6VZ:gCU`Mcm_kmh10
+R2
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.987000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_wrapper
+R23
+!i10b 1
+!s100 7lEZaEMaiG^G:Y`@ZCKZF1
+IWIQbh=@mc;5TEgGFLlfiJ2
+R2
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347991.054000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_avalon_reg
+R1
+!i10b 1
+!s100 =^?ea7[Oh1B@ZN6VBkOWP0
+ITl44Z;jnfig>RPo48^`E]1
+R2
+R0
+R3
+R59
+R60
+L0 2177
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci
+R1
+!i10b 1
+!s100 cSP5Nn>dYfD?ELR;]HlYW3
+I`Ng0faO7B>CAcYARLm1z32
+R2
+R0
+R3
+R59
+R60
+L0 2510
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_break
+R1
+!i10b 1
+!s100 CcccK0lV2RMSkLa4mz0;O0
+IC90@3CL:WWmh0mhRV[HGI2
+R2
+R0
+R3
+R59
+R60
+L0 292
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_compute_input_tm_cnt
+R1
+!i10b 1
+!s100 Jom33VTUFNX>OzIc;AKOS1
+IDZbhO1fID[a^0cOP87d[`2
+R2
+R0
+R3
+R59
+R60
+L0 1426
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_dbrk
+R1
+!i10b 1
+!s100 Hib?^Tz:GZiY@6_:f6Xzc0
+I536czkg1`YkjQg@5jzE7>0
+R2
+R0
+R3
+R59
+R60
+L0 790
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_debug
+R1
+!i10b 1
+!s100 XK<`6DDHY9VB[:N3HXgiD1
+IjHXO`4zK5XOEo6>V2KPeJ0
+R2
+R0
+R3
+R59
+R60
+L0 151
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_dtrace
+R1
+!i10b 1
+!s100 SgOVRi==dOKO82U6_U0C:2
+I<aO9V`SlA@2E9FjX73FP93
+R2
+R0
+R3
+R59
+R60
+L0 1345
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo
+R1
+!i10b 1
+!s100 5fQ]]7oVBA:?jERJgZjRM3
+I1hYe]5=CThGh:7kP7g>2_2
+R2
+R0
+R3
+R59
+R60
+L0 1585
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo_cnt_inc
+R1
+!i10b 1
+!s100 <[4R2J:oVbER`b[HQ36Qe2
+Ij6fzji>GXlX]ROCao0E2>0
+R2
+R0
+R3
+R59
+R60
+L0 1539
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo_wrptr_inc
+R1
+!i10b 1
+!s100 n1h=Og9N9]E^9_[5AXHY]0
+InZW:Reb9eDK6Qi5kGc8oY1
+R2
+R0
+R3
+R59
+R60
+L0 1497
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_im
+R1
+!i10b 1
+!s100 z2BFPJ3<ioffXS^IRmFPF3
+InS6E4lmD5MW^aB3@^:9PB0
+R2
+R0
+R3
+R59
+R60
+L0 2092
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_itrace
+R1
+!i10b 1
+!s100 Ud<IEdKDDO1MMQa8YlHz31
+I_JIN>X2_^4<Ti`8nDh18`2
+R2
+R0
+R3
+R59
+R60
+L0 976
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_pib
+R1
+!i10b 1
+!s100 VCBDjChcLl>iHB@DoLAS^2
+I6Nk[4X26Z]Tn`>:;XDLjf3
+R2
+R0
+R3
+R59
+R60
+L0 2070
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_td_mode
+R1
+!i10b 1
+!s100 XTA0jdoMH_JkI11BLf04^3
+IC>aTYD`Q5LBF7?;GC9DP20
+R2
+R0
+R3
+R59
+R60
+L0 1278
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_xbrk
+R1
+!i10b 1
+!s100 AI@gTjN5L[Lb9I2D[LfjK1
+IU6K69T_1:BaX<EUlB:L6V3
+R2
+R0
+R3
+R59
+R60
+L0 584
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_ocimem
+R1
+!i10b 1
+!s100 Kaa]l`iC[5YWX_I=`@CIW2
+I:D0C315>Rd<jUfU4Jzgc>0
+R2
+R0
+R3
+R59
+R60
+L0 2332
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_performance_monitors
+R1
+!i10b 1
+!s100 Gel=A_e0XGD<1ncj3^g@P2
+IT1<RJPMA=;[>;52Y>>G>M3
+R2
+R0
+R3
+R59
+R60
+L0 2161
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_ociram_sp_ram_module
+R1
+!i10b 1
+!s100 3a@Jbn@E=P`z9Pf?h71JM3
+ILKJ=V:bkkm6keFHX@_m8H0
+R2
+R0
+R3
+R59
+R60
+L0 2269
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_register_bank_a_module
+R1
+!i10b 1
+!s100 ;7m8bUN<f7;Zig@z9NNSl2
+I]AgJ@2PVM@?aSe@cgY^IS0
+R2
+R0
+R3
+R59
+R60
+R4
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_register_bank_b_module
+R1
+!i10b 1
+!s100 UF8Fk9m1D?;@gdjfzzi0h0
+IglK7<aKPaAGbBmZ5<D>Vg0
+R2
+R0
+R3
+R59
+R60
+L0 86
+R5
+r1
+!s85 0
+31
+R61
+R62
+R63
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_test_bench
+R23
+!i10b 1
+!s100 O0@U4HMB8TagiR1F:R6mb1
+Ikc=?kE=aPnJdF992:K2MG2
+R2
+R0
+R3
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347991.121000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v|
+!i113 1
+R6
+R7
+vnios_system_onchip_memory2_0
+R1
+!i10b 1
+!s100 4PCj?YoC^C?E<E^b72]Y_2
+IK>8_g2LXT0NZ@GZ22L57e0
+R2
+R0
+Z64 w1476842857
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.625000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_address
+R1
+!i10b 1
+!s100 cWVDfmAU1LozeX<8a:YGS2
+Ial>c3TY`L?SAdI9g4WZ@72
+R2
+R0
+R64
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.559000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_cs
+R1
+!i10b 1
+!s100 Ma[RJe=eD4K4a@0j23K__2
+IhngoKcjGYDb@D50]UVBgm2
+R2
+R0
+Z65 w1476842858
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.491000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_data
+R1
+!i10b 1
+!s100 ^`FVFDMa]9g62RdP`7^g:0
+I4d=OhY1J8@SeHS>C:3Di]3
+R2
+R0
+R65
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.423000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v|
+!i113 1
+R6
+R7
+vnios_system_sdram
+R1
+!i10b 1
+!s100 435<UPL7zbobFkJVe8Y5>1
+IEzZVdgRnU2AdJ7chJjSQ92
+R2
+R0
+Z66 w1476842859
+Z67 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram.v
+Z68 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram.v
+L0 158
+R5
+r1
+!s85 0
+31
+Z69 !s108 1481347990.314000
+Z70 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram.v|
+Z71 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram.v|
+!i113 1
+R6
+R7
+vnios_system_sdram_input_efifo_module
+R1
+!i10b 1
+!s100 `4U:gH>zF5PR=6ZNAM;of1
+INLN7njeh^jUFS?f9FMJD43
+R2
+R0
+R66
+R67
+R68
+R4
+R5
+r1
+!s85 0
+31
+R69
+R70
+R71
+!i113 1
+R6
+R7
+vnios_system_sdram_pll
+R1
+!i10b 1
+!s100 T[FE[obTmG?PzU3TS=2AD1
+I]eZZ[MKll^6Q<:zDJ5;WS0
+R2
+R0
+Z72 w1476842862
+Z73 8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+Z74 FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+L0 218
+R5
+r1
+!s85 0
+31
+Z75 !s108 1481347990.241000
+Z76 !s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+Z77 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_altpll_lqa2
+R1
+!i10b 1
+!s100 ^STn66kl3A_3`>k^;zA=_0
+ISIfcR=fb[DV:CbioH^`ci0
+R2
+R0
+R72
+R73
+R74
+L0 131
+R5
+r1
+!s85 0
+31
+R75
+R76
+R77
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_dffpipe_l2c
+R1
+!i10b 1
+!s100 elWh6@kIZm@nImFLZLo1<2
+IYch;PW_Z>_0=D2B1<MX_K3
+R2
+R0
+R72
+R73
+R74
+L0 38
+R5
+r1
+!s85 0
+31
+R75
+R76
+R77
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_stdsync_sv6
+R1
+!i10b 1
+!s100 h?gUGNi8f=H5NC4YTaSd83
+IknO02]aGNklCFj[XQ;NRn0
+R2
+R0
+R72
+R73
+R74
+L0 99
+R5
+r1
+!s85 0
+31
+R75
+R76
+R77
+!i113 1
+R6
+R7
+vnios_system_sysid_qsys_0
+R1
+!i10b 1
+!s100 2c75aD>X>h>KaP6Rbz2Th0
+ILEPUJgTho2lC;c>VN5=5P0
+R2
+R0
+R72
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481347990.178000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!i113 1
+R6
+R7

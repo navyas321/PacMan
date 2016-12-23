@@ -1,0 +1,19 @@
+module Death(input logic [9:0] pX, pY G1X, G1Y, G2X, G2Y, G3X, G3Y, G4X, G4Y,
+				 output logic pacDeath);
+
+				 logic x,y;
+		always_comb
+		begin 
+		
+		if((G1X > pX && G1X < pX+16) || (pX > G1X && pX < G1X+16))
+			x = 1'b1;
+		else  x = 1'b0;
+			
+		if((G1Y > pY && G1Y < pY+16) || (pY > G1X && pY < G1Y+16))
+			y = 1'b1
+		else y = 1'b0;
+		
+		pacDeath = x & y;
+		
+		end		 
+endmodule

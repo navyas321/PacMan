@@ -1,0 +1,5 @@
+module ghost ( input Reset, frame_clk,
+					//input [15:0]key,
+               output [9:0]  GhostX, GhostY, GhostS); 
+					//input logic [3:0] wall,
+					//output logic Up, Down, Left, Right);

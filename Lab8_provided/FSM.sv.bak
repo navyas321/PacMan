@@ -1,0 +1,86 @@
+
+
+
+
+
+
+module FSM(input Reset,Clk
+			input logic [15:0]keyboard,
+			//input logic pause
+			input logic  pacDeath,
+			output logic startscreen,
+			output logic gamescreen,
+			output logic pausescreen,
+			output logic gameoverscreen
+			);
+
+enum logic [2:0]{Start,Game,Pause,Death}state,next_state;
+
+always_ff @(posedge Clk or posedge Reset)
+begin :
+if(Reset)
+	state<=Start;
+	else
+	state<=next_state;
+end
+
+always_comb
+begin
+next_state=state;
+
+unique case(State)
+Start:begin
+	if(keyboard==####)//enter
+	next_state<=gamescreen;
+	else 
+	next_state<=Start;
+	end
+
+Game:begin
+	if(keyboard==####)///esc
+	next_state<=Pause;
+	else if(pacDeath)
+	next_state<=Death;
+	else
+	next_state<=Game;
+	end
+
+Pause:begin
+	if(keyboard==####)//esc
+	next_state<=gamescreen;
+	else 
+	next_state<=Pause;
+	end
+
+Death:begin
+	if(keyboard==####)//esc
+	next_state<=Start;
+	else 
+	next_state<=Death;
+	end
+endcase
+end
+
+always_comb
+	begin
+	startscreen=1'b0;
+	gamescreen=1'b0;
+	pausescreen=1'b0;
+	gameoverscreen=1'b0;
+	case(state)
+	Start:begin
+		startscreen=1'b1;
+		end
+	Game:begin
+		gamescreen=1'b1;
+		end
+	Pause:begin
+	pausescreen=1'b1;
+	end
+	Death:begin
+	gameoverscreen=1'b1;
+	end
+endcase
+end
+
+endmodule

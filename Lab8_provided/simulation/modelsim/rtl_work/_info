@@ -1,0 +1,402 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/simulation/modelsim
+vball
+Z1 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z2 !s110 1481347991
+!i10b 1
+!s100 8U;b>=8CI4deRjPAdd5:93
+IzN6i9Pd;X=ZS3C5744N2@2
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 ball_sv_unit
+S1
+R0
+w1481094675
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/ball.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/ball.sv
+L0 16
+Z4 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1481347991.728000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/ball.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/ball.sv|
+!i113 1
+Z5 o-sv -work work
+Z6 !s92 -sv -work work +incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided
+vcheckpoint
+R1
+Z7 !s110 1481347992
+!i10b 1
+!s100 6e`SX[CEUC8`67G8BE@C00
+Ii?`82YDYN=M^M>cSjn]Wc3
+R3
+!s105 checkpoint_sv_unit
+S1
+R0
+w1481109375
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/checkpoint.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/checkpoint.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.290000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/checkpoint.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/checkpoint.sv|
+!i113 1
+R5
+R6
+vcolor_mapper
+R1
+R2
+!i10b 1
+!s100 D?O1X]8=C1H;^Wgb40hbT1
+IX]lI1@@W4F8f1gBllSaXH0
+R3
+!s105 Color_Mapper_sv_unit
+S1
+R0
+w1481259676
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Color_Mapper.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Color_Mapper.sv
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1481347991.658000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Color_Mapper.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Color_Mapper.sv|
+!i113 1
+R5
+R6
+vDeath
+R1
+R7
+!i10b 1
+!s100 ^?gYI>TaNj_^;<ZUnA_`43
+I;hkQ;USaGZ?4oYAl[``>o2
+R3
+!s105 Death_sv_unit
+S1
+R0
+w1481112402
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Death.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Death.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.032000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Death.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Death.sv|
+!i113 1
+R5
+R6
+n@death
+vEnd
+R1
+R7
+!i10b 1
+!s100 [W`V=E1chL9>hEzbE?jUR3
+IbHV7bP`1bbK?hI0hH5VC11
+R3
+!s105 End_sv_unit
+S1
+R0
+w1481088947
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/End.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/End.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.227000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/End.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/End.sv|
+!i113 1
+R5
+R6
+n@end
+vfont_rom
+R1
+R2
+!i10b 1
+!s100 Ja1ES9RDd7>9eH9moRTn50
+IUfbI<?PBVKTOeQc]7M][N2
+R3
+!s105 font_rom_sv_unit
+S1
+R0
+w1479444827
+8C:/Users/Navid/Documents/ECE385/Lab8/font_rom.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/font_rom.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347991.375000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/font_rom.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8|C:/Users/Navid/Documents/ECE385/Lab8/font_rom.sv|
+!i113 1
+R5
+!s92 -sv -work work +incdir+C:/Users/Navid/Documents/ECE385/Lab8
+vFSM
+R1
+R7
+!i10b 1
+!s100 :adL]ciU?BaKGSXflB;[f1
+IGzgmhz@XPWEe9IYW0E?em0
+R3
+!s105 FSM_sv_unit
+S1
+R0
+w1481111319
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/FSM.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/FSM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.096000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/FSM.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/FSM.sv|
+!i113 1
+R5
+R6
+n@f@s@m
+vghost
+R1
+R2
+!i10b 1
+!s100 81`k1leICN=LPYWTXoA>T2
+I0N@k7H;jVWed`Z:k6eH_H2
+R3
+!s105 Ghost_sv_unit
+S1
+R0
+w1481257422
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Ghost.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Ghost.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347991.962000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Ghost.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Ghost.sv|
+!i113 1
+R5
+R6
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 aRJgNbH8ER_E]Y]fbToTV0
+I5a_34B@C3P7;a1MjJhgk;1
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1443471228
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/HexDriver.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/HexDriver.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347991.591000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/HexDriver.sv|
+!i113 1
+R5
+R6
+n@hex@driver
+vlab8
+R1
+R2
+!i10b 1
+!s100 MPNRjZPmVMd5@1i@Kid6E1
+Iz?4ACCacR1G;YTH6lKQ;H3
+R3
+!s105 lab8_sv_unit
+S1
+R0
+w1481347590
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/lab8.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/lab8.sv
+L0 13
+R4
+r1
+!s85 0
+31
+!s108 1481347991.523000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/lab8.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/lab8.sv|
+!i113 1
+R5
+R6
+vSprites
+R1
+R2
+!i10b 1
+!s100 j`FUdmR6@8fO`jTRHF5YR2
+IJ__YPiYHlMA2hmTlb81^S1
+R3
+!s105 Sprites_sv_unit
+S1
+R0
+w1481093946
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Sprites.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Sprites.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347991.800000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Sprites.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Sprites.sv|
+!i113 1
+R5
+R6
+n@sprites
+vStart
+R1
+R7
+!i10b 1
+!s100 ?Q_2VO0bjcC[nY=HHT>;k0
+I8?N[HbEmRPa0O;=G@UmBO1
+R3
+!s105 Start_sv_unit
+S1
+R0
+w1481088602
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Start.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Start.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.164000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Start.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Start.sv|
+!i113 1
+R5
+R6
+n@start
+vtestbench
+R1
+!s110 1481347994
+!i10b 1
+!s100 TUZXb6R^VXzQ6WV^di2gL2
+IGDkNOaJ^m[RzeS?fVTUFm3
+R3
+!s105 testbench_sv_unit
+S1
+R0
+w1481347872
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/testbench.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/testbench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347993.993000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/testbench.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/testbench.sv|
+!i113 1
+R5
+R6
+vvga_controller
+R1
+R2
+!i10b 1
+!s100 eE;HE`4APn9b9GN2hz[zS1
+If3OmVLNLJQLDYm7]zSdii1
+R3
+!s105 VGA_controller_sv_unit
+S1
+R0
+w1443472988
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/VGA_controller.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/VGA_controller.sv
+L0 25
+R4
+r1
+!s85 0
+31
+!s108 1481347991.456000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/VGA_controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/VGA_controller.sv|
+!i113 1
+R5
+R6
+vWalls
+R1
+R2
+!i10b 1
+!s100 ?55^<<ZXL43UE;C08L3WH3
+IBXS?];0f[ahM=1k1@nJgI2
+R3
+!s105 Walls_sv_unit
+S1
+R0
+w1481257418
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Walls.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Walls.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347991.868000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Walls.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Walls.sv|
+!i113 1
+R5
+R6
+n@walls
+vWin
+R1
+R7
+!i10b 1
+!s100 0:27SfGKHLD<L2K::RKYk0
+IIzeXg`V3;0nG3lIOQ09V]2
+R3
+!s105 Win_sv_unit
+S1
+R0
+w1481110919
+8C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Win.sv
+FC:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Win.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1481347992.358000
+!s107 C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Win.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided|C:/Users/Navid/Documents/ECE385/Lab8/Lab8_provided/Win.sv|
+!i113 1
+R5
+R6
+n@win
